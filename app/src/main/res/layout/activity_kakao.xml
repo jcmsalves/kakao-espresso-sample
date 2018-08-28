@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:animateLayoutChanges="true"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".KakaoActivity">
+
+    <Button
+        android:id="@+id/button_update"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Give me some Kakao" />
+
+    <TextView
+        android:id="@+id/text_view_hello"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:text="Hello World!"
+        android:textSize="20sp" />
+
+
+    <ImageView
+        android:id="@+id/image_view_kakao"
+        android:layout_width="256dp"
+        android:layout_height="wrap_content"
+        android:src="@drawable/kakao"
+        android:visibility="gone" />
+
+</LinearLayout>
