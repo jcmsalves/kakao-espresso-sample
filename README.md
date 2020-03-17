@@ -5,4 +5,4 @@ This project was created to support a medium article demonstrating how to use Ka
 
 ----
 
-[Writing UI Tests with Espresso and Kakao](https://proandroiddev.com/writing-ui-tests-with-espresso-and-kakao-409c95d325bf "Writing UI Tests with Espresso and Kakao")
+[Writing UI Tests with Espresso and Kakao](https://joaoalves.dev/posts/writing-ui-tests-with-espresso-and-kakao/ "Writing UI Tests with Espresso and Kakao")
